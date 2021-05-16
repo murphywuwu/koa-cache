@@ -1,0 +1,11 @@
+{
+  "name": "koa-cache",
+  "version": "1.0.0",
+  "description": "browser cache",
+  "main": "index.js",
+  "author": "murphywuwu <murphywuwu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
